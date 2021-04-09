@@ -10,7 +10,7 @@
   - `Node/Express.js`.
   - `Java/Kotlin`
 
--🌱 Am familiar with:
+- 🌱 Am familiar with:
   - `Android App Development`
   - `Python`
   - `C` language
