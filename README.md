@@ -7,6 +7,7 @@
   - `CLI`, `Git/GitHub`
   - `JavaScript`,
   - `React.js`
+  - `Material UI`
   - `Node/Express.js`.
   - `Java/Kotlin`
 
