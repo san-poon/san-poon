@@ -7,14 +7,11 @@
   - `CLI`, `Git/GitHub`
   - `JavaScript`,
   - `React.js`
-  - `Material UI`
-  - `Node/Express.js`.
-  - `Java/Kotlin`
+  - `Next.js`
+  - `TailwindCSS`
 
 - 🌱 Am familiar with:
   - `Android App Development`
-  - `Python`
-  - `C` language
 
 ✉️ Email: sanjibpoon123@gmail.com
 
