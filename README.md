@@ -1,11 +1,11 @@
-# 👋 Welcome to My Coding Journey!
+# 👋 Welcome to My Skill Mastery Journey!
 
 ## Sanjib Poon, Front-end Developer 🚀
 
 ### Profile Snapshot
 
-- 🌍 Navigating the intersections of farming in Nepal and coding.
-- 🎓 Self-taught and driven Front-end Developer, specializing in Next.js.
+- 🌍 Navigating the intersections of skill mastery and programming.
+- 🎓 Self-taught and driven Front-end Developer, specializing in Next.js(full-stack).
 - 📅 25-year-old visionary, started programming in 2018.
 
 ### What Sets Me Apart
@@ -17,7 +17,7 @@
 - 🎨 **Design-Driven Approach:** Understanding that the essence of great engineering lies in thoughtful product design, I prioritize creating not just functional but also aesthetically pleasing solutions.
 
 
-### Code Mastery
+### Skills|Tools Mastery
 
 - 🛠️ **Preferred Stacks: I dearly love**
   - TailwindCSS
@@ -26,10 +26,10 @@
   - @vercel/postgres (database)
 
 - 🔨 **Current Project:**
-  - Spearheading the development of 'Lesson Create Mode' for [PlayLearnForge](https://playlearnforge.vercel.app).
-    - Empowering experts to craft engaging lessons with intuitive UI. [Create Lesson](https://playlearnforge.vercel.app/bite-sized-lesson/create)
+  - Spearheading the development of 'Learning Path Create Mode' for [PlayLearnForge](https://playlearnforge.vercel.app/feature-category-hierarchy/create).
+    - Empowering experts to craft engaging lessons with intuitive UI. [Create Lesson](https://playlearnforge.vercel.app/feature-lesson/create)
   - **Why PlayLearnForge?** 
-    - Envisioning a unified learning platform, PlayLearnForge is a testament to my belief that educational contents must be created through contribution of experts and feedback from learners, making sure the content is updated and method to learning is personalized  
+    - Envisioning a unified learning platform, PlayLearnForge is a testament to my belief that skillful contents must be created through contribution of experts and feedback from learners, making sure the content is updated and method to learning is personalized  
 
 
 ### Join the Journey!
